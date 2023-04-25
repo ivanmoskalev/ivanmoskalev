@@ -8,4 +8,6 @@ My time at Yandex also led me to develop and patent a user interface solution (S
 
 After Yandex I've worked at Kaspersky Lab Startup Incubator, where I helped create an anti-counterfeit system that used NFC/RFID. The solutions we built were in use by 3M, Moncler and, surprising as it is, helped Thebe Magugu make a dashing presentation that secured him LVMH Young Fashion Designer Prize.
 
-I'm always open to learning new things and sharing my knowledge with the development community. 
+I'm quite bad at mathemathics. My priorities in programming and tech are primarily humanitarian, and I enjoy concrete, pragmatic yet deeply empathic solutions.
+
+I'm always open to learning new things and sharing my findings with the development community!
