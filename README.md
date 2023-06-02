@@ -1,6 +1,6 @@
 Hi, I'm Ivan! I enjoy solving problems and exploring new ideas.
 
-I'm currently working on VK Messenger for iOS, focusing on updating the network stack, refining databases, and improving performance.
+I'm currently working on VK Messenger for iOS, focusing on improving the network stack, refining databases, and in general measuring and optimizing the app's performance.
 
 Over the years, I've worked on a variety of projects, such as Yandex.Translate for iOS, Punto Switcher, and the Yandex Superapp. This involved, in no particular order: porting a C++ machine translation engine for mobiles, working with OCR and live translation technologies, creating a watchOS app, pushing releases to 5M MAU, refactoring C++03 codebases, setting up complex TeamCity pipelines, and having lots of fun. 
 
